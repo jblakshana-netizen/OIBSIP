@@ -19,7 +19,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a Retail S
 - Insight Generation
 
 ## Files Included
-- proj1.pdf (Project Report)
+- proj1.pdf
 - retail_sales_dataset.csv (Dataset)
 - proj1.ipynb(Jupyter Notebook)
 
