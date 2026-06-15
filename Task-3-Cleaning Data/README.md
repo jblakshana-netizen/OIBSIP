@@ -17,8 +17,9 @@ This project focuses on cleaning and preparing raw data for analysis. Data clean
 - Google Colab
 
 ## Files Included
-- Data_Cleaning.ipynb
-- cleaning_dataset.csv
+- Data_Cleaning.ipynb(Notebook Jupyter)
+- AB_NYC_2019.csv.zip(Dataset)
+- Cleaned_AB_NYC_2019.csv(cleaned Dataset)
 
 ## Outcome
 This project improved my skills in data preprocessing, handling missing values, removing duplicates, and preparing datasets for analysis.
