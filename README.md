@@ -21,6 +21,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a Retail S
 ## Files Included
 - proj1.pdf (Project Report)
 - retail_sales_dataset.csv (Dataset)
+- proj1.ipynb(Jupyter Notebook)
 
 ## Outcome
 This project helped me improve my skills in data cleaning, exploratory data analysis, statistical interpretation, and data visualization.
